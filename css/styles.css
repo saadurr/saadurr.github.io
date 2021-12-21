@@ -11320,6 +11320,11 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.subheading a{
+  text-decoration: none;
+  color: #8a8b8d;
+}
+
 #sideNav {
   padding-left: 1rem;
   padding-right: 1rem;
