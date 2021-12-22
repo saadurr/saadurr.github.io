@@ -567,6 +567,11 @@ progress {
   margin-right: 0.5rem;
 }
 
+.list-inline-item img{
+  height: 60px;
+  width: auto;
+}
+
 .initialism {
   font-size: 0.875em;
   text-transform: uppercase;
