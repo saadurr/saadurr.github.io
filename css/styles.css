@@ -11437,3 +11437,8 @@ section.resume-section .resume-section-content {
 footer {
   background-color: #04414d;
 }
+
+.misc-content a{
+  text-decoration: none;
+  color: #6c757d;
+}
