@@ -11442,3 +11442,9 @@ footer {
   text-decoration: none;
   color: #6c757d;
 }
+
+.section-break{
+  width: 50%;
+  margin: auto;
+  margin-bottom:5rem;
+}
